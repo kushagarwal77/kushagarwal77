@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kushagarwal77" target="blank"><img src="https://img.shields.io/twitter/follow/kushagarwal77?logo=twitter&style=for-the-badge" alt="kushagarwal77" /></a> </p>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **Java development**
 
-- 💬 Ask me about **Java,C,C++,Html and javascript**
+- 💬 Ask me about **Java,Spring Boot,Spring,C,C++,Html and css**
 
 - 📫 How to reach me **Agarwalkush086@gmail.com**
 
